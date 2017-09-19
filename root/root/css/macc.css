@@ -1,0 +1,19 @@
+
+/* Macc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.screen {
+  padding: 8rem 0 7rem;
+  text-align: center;
+  background-color: #3F496C;
+  color: #D0D5D7;
+  border-radius: 10px;
+}
+
+.container {
+  padding: 5% 0;
+}
+
+.row {
+  padding: 10% 0;
+}
