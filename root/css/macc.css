@@ -1,0 +1,32 @@
+
+/* Macc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.screen {
+  padding: 5% 5%;
+  text-align: center;
+  background-color: #3F496C;
+  color: #D0D5D7;
+  border-radius: 10px;
+  border: 5px solid #566398;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.screen-frame {
+  padding: 3% 3%;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: bold;
+}
+
+.container {
+  padding: 5% 0;
+}
+
+.row {
+  padding: 10% 0;
+}
+
+h1.hero-heading{ 
+	font-weight: bold;
+}
